@@ -28,7 +28,7 @@ transcodificador-de-docs/
 ├── requirements.txt               # Dependências do projeto
 └── .gitignore
 ```
-## Como rodar
+## Como rodar 
 1 - pip install -r requirements.txt
 2 - bash run.sh
 3 - python server.py
